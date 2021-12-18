@@ -1,1 +1,1 @@
-# Work_TUDortmund
+# Word Spotting in Handwritten Documents
